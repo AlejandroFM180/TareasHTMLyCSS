@@ -1,0 +1,35 @@
+body{
+	 background: black;
+
+}
+
+h1 {
+	color: red;
+	text-align: center;  
+	 font-size: 40px;
+	 font-family: "Homer Simpson UI";
+
+}
+
+
+.foto{
+	   display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 40%;
+}
+
+p{
+	color: white;
+	text-align: center;
+	 font-size: 25px;
+	 font-family: Arial;
+}
+
+ul{
+	color: white;
+	 font-size: 20px;
+	 text-align: left; 
+	 font-family: cursive;
+
+}
